@@ -1,0 +1,96 @@
+# close edges aspect ratio
+aspect
+1
+
+# triangels only
+triangles
+
+# optimum angle for triangles
+angle
+60
+
+# number of divisions in x,y
+divisions
+38
+
+# check close edges
+no_close
+
+# calculate default density
+auto
+
+# remove current refinement regions
+#remove
+
+# global mesh refinement factor
+factor
+2
+
+# grid order (1,2,3)
+order
+1
+
+# refinement region
+
+spacing=0.5
+
+# plasma (mat 0)
+g_face
+1
+spacing spacing
+
+
+# bottom electrode (mat 1)
+g_face
+7
+spacing*0.01 spacing*0.01
+
+# top electrode (mat 2)
+g_face
+8
+spacing*0.005 spacing*0.005
+
+# lower boundary (mat 4)
+g_face
+3
+spacing spacing
+
+# upper boundary (mat 4)
+g_face
+4
+spacing spacing
+
+# nozzle (mat 5)
+g_face
+5
+spacing spacing
+
+# pump (mat 6)
+g_face
+6
+spacing spacing
+
+# dielectric (mat 3)
+g_face
+2
+spacing*0.1 spacing*0.1
+
+
+# refinement top left
+x1=xl/2+0.4*be
+x2=xl/2+3*be
+y1=w+hd
+y2=w+hd+0.5*be
+rectangle
+x1,y1, x2,y1, x2,y2, x1,y2, spacing*0.005 spacing*0.005
+
+# refinement top right
+x1=xl/2-0.4*be
+x2=xl/2-3*be
+y1=w+hd
+y2=w+hd+0.5*be
+rectangle
+x1,y1, x2,y1, x2,y2, x1,y2, spacing*0.005 spacing*0.005
+
+
+
