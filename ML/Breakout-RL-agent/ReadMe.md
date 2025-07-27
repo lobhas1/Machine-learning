@@ -2,7 +2,7 @@ In this file I will summarize the breakout game reinforcement agent that I made.
 I have used a Q-learning method to train a RL model for playing the popular atari game "breakout".
 I have also made the game by myself and hence it might be a bit buggy.
 One of the issues of the game is that the tiles are too large in width which causes some weird bounces of the ball.
-You can change this by decreasing the height of the tiles in the Tiles class in ![this file](Machine-learning/ML/Breakout-RL-agent/BallPong_multiprocess.py).
+You can change this by decreasing the height of the tiles in the Tiles class in ![this file](BallPong_multiprocess.py).
 
 The logic of training is as follows:
 1) Two processes use the train() function to train two different q-tables.
@@ -12,7 +12,7 @@ The logic of training is as follows:
 3) The next cycle hen uses the dominant q-table and makes two more processes to train on that.
 4) This keeps on repeating for the specified number of cycles.
 
-The ![logfile](Machine-learning/ML/Breakout-RL-agent/logfile.txt) keeps track of what has happened over the training time.
+The ![logfile](logfile.txt) keeps track of what has happened over the training time.
 It tracks and prints the episode number, the reward for that episode, the number of tiles broken in that episode and if the agent lst or not.
 It also keeps track of any episode where the agent actually managed to break all the tiles in the game.
 It can be noticed that as the number of tiles that are broken is more, the lesser the episode reward which is counter intuitive.
@@ -21,8 +21,8 @@ But this is because, we get a negative reward for each step taken without gettin
 As you can see from the video that the agent still oscillates very often which means the move punishment should be higher.
 
 The result of this training can be seen in the videos.
-![breakoutagentgameplay1](Machine-learning/ML/Breakout-RL-agent/breakoutagentgameplay1.mp4)
-![breakoutagentgameplay2](Machine-learning/ML/Breakout-RL-agent/breakoutagentgameplay2.mp4)
+![breakoutagentgameplay1](breakoutagentgameplay1.mp4)
+![breakoutagentgameplay2](breakoutagentgameplay2.mp4)
 
 Problems with this code.
 1) The first problem is very apparant, there needs to be more time spent on training the model.
