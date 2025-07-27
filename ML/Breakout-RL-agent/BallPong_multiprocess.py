@@ -826,14 +826,14 @@ def main_train(number_of_cycles,q_table = None):
 
         # If process 1 broke more tiles, choose its Q-table
         if max_broken_reward1[0] > max_broken_reward2[0]:
-            q_table = f"{run_id1}.pickle"
-            os.remove(f"{run_id2}.pickle")
+            q_table = f"q_table{run_id1}.pickle"
+            os.remove(f"q_table{run_id2}.pickle")
             print(f"Process {run_id1} broke more tiles than Process {run_id2}")
             print(f"Process {run_id1} broke {max_broken_reward1[0]} and Process {run_id2} broke {max_broken_reward2[0]}")
         # If process 2 broke more tiles, choose its Q-table
         elif max_broken_reward1[0] < max_broken_reward2[0]:
-            q_table = f"{run_id2}.pickle"
-            os.remove(f"{run_id1}.pickle")
+            q_table = f"q_table{run_id2}.pickle"
+            os.remove(f"q_table{run_id1}.pickle")
             print(f"Process {run_id2} broke more tiles than Process {run_id1}")
             print(f"Process {run_id1} broke {max_broken_reward1[0]} and Process {run_id2} broke {max_broken_reward2[0]}")
         # If both broke the same number of tiles, apply a tiebreaker
@@ -842,13 +842,13 @@ def main_train(number_of_cycles,q_table = None):
             print(f"Process {run_id1} broke {max_broken_reward1[0]} and Process {run_id2} broke {max_broken_reward2[0]}")
             # Use secondary metric (e.g., cumulative reward, efficiency, etc.)
             if max_broken_reward1[1] > max_broken_reward2[1]:
-                q_table = f"{run_id1}.pickle"
-                os.remove(f"{run_id2}.pickle")
+                q_table = f"q_table{run_id1}.pickle"
+                os.remove(f"q_table{run_id2}.pickle")
                 print(f"Process {run_id1} has higher reward than Process {run_id2}")
                 print(f"Process {run_id1}'s reward {max_broken_reward1[1]} and Process {run_id2}'s reward {max_broken_reward2[1]}")
             else:
-                q_table = f"{run_id2}.pickle"
-                os.remove(f"{run_id1}.pickle")
+                q_table = f"q_table{run_id2}.pickle"
+                os.remove(f"q_table{run_id1}.pickle")
                 print(f"Process {run_id2} has higher reward than Process {run_id1}")                
                 print(f"Process {run_id1}'s reward {max_broken_reward1[1]} and Process {run_id2}'s reward {max_broken_reward2[1]}")
 
@@ -863,5 +863,5 @@ if __name__ == "__main__":
     #main_train(number_of_cycles=7)
 
     # Run this to show the result 
-    main_show("2.pickle")
+    main_show("q_table2.pickle")
 
