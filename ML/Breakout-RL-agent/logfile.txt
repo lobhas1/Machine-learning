@@ -1,0 +1,345 @@
+
+Hello from the pygame community. https://www.pygame.org/contribute.html
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+(27, 27, 4, 3)
+0
+For Process 1:- Episode: 0 Reward: -4000 Number of tiles broken: 0 Game Over: True
+(27, 27, 4, 3)
+0
+For Process 2:- Episode: 0 Reward: -8930 Number of tiles broken: 1 Game Over: True
+5000
+For Process 1:- Episode: 5000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+5000
+For Process 2:- Episode: 5000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+10000
+For Process 1:- Episode: 10000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+10000
+For Process 2:- Episode: 10000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+15000
+For Process 1:- Episode: 15000 Reward: -8930 Number of tiles broken: 1 Game Over: True
+15000
+For Process 2:- Episode: 15000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+20000
+For Process 1:- Episode: 20000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+20000
+For Process 2:- Episode: 20000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+25000
+For Process 1:- Episode: 25000 Reward: -8930 Number of tiles broken: 1 Game Over: True
+25000
+For Process 2:- Episode: 25000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+30000
+For Process 1:- Episode: 30000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+30000
+For Process 2:- Episode: 30000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+35000
+For Process 1:- Episode: 35000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+35000
+For Process 2:- Episode: 35000 Reward: -29250 Number of tiles broken: 5 Game Over: True
+40000
+For Process 1:- Episode: 40000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+40000
+For Process 2:- Episode: 40000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+45000
+For Process 1:- Episode: 45000 Reward: -8930 Number of tiles broken: 1 Game Over: True
+45000
+For Process 2:- Episode: 45000 Reward: -11530 Number of tiles broken: 3 Game Over: True
+1 (53, -129700)
+2 (59, -194090)
+Process 2 broke more tiles than Process 1
+Process 1 broke 53 and Process 2 broke 59
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+0
+0
+For Process 1:- Episode: 0 Reward: -4000 Number of tiles broken: 0 Game Over: True
+For Process 2:- Episode: 0 Reward: -6100 Number of tiles broken: 1 Game Over: True
+5000
+For Process 1:- Episode: 5000 Reward: -11030 Number of tiles broken: 2 Game Over: True
+5000
+For Process 2:- Episode: 5000 Reward: -11630 Number of tiles broken: 2 Game Over: True
+10000
+For Process 1:- Episode: 10000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+10000
+For Process 2:- Episode: 10000 Reward: -14020 Number of tiles broken: 2 Game Over: True
+15000
+For Process 1:- Episode: 15000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+15000
+For Process 2:- Episode: 15000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+20000
+For Process 1:- Episode: 20000 Reward: -13860 Number of tiles broken: 2 Game Over: True
+20000
+For Process 2:- Episode: 20000 Reward: -33340 Number of tiles broken: 11 Game Over: True
+25000
+For Process 1:- Episode: 25000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+25000
+For Process 2:- Episode: 25000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+30000
+For Process 1:- Episode: 30000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+30000
+For Process 2:- Episode: 30000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+35000
+For Process 1:- Episode: 35000 Reward: -66980 Number of tiles broken: 12 Game Over: True
+35000
+For Process 2:- Episode: 35000 Reward: -11860 Number of tiles broken: 2 Game Over: True
+40000
+For Process 1:- Episode: 40000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+40000
+For Process 2:- Episode: 40000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+45000
+For Process 1:- Episode: 45000 Reward: -18320 Number of tiles broken: 5 Game Over: True
+45000
+For Process 2:- Episode: 45000 Reward: -8990 Number of tiles broken: 1 Game Over: True
+1 (57, -222670)
+2 (58, -139940)
+Process 2 broke more tiles than Process 1
+Process 1 broke 57 and Process 2 broke 58
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+0
+0
+For Process 1:- Episode: 0 Reward: -11660 Number of tiles broken: 2 Game Over: True
+For Process 2:- Episode: 0 Reward: -11690 Number of tiles broken: 2 Game Over: True
+5000
+For Process 2:- Episode: 5000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+5000
+For Process 1:- Episode: 5000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+10000
+For Process 1:- Episode: 10000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+10000
+For Process 2:- Episode: 10000 Reward: -22850 Number of tiles broken: 4 Game Over: True
+15000
+For Process 1:- Episode: 15000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+15000
+For Process 2:- Episode: 15000 Reward: -11790 Number of tiles broken: 2 Game Over: True
+20000
+For Process 1:- Episode: 20000 Reward: -136170 Number of tiles broken: 25 Game Over: True
+20000
+For Process 2:- Episode: 20000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+25000
+For Process 1:- Episode: 25000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+25000
+For Process 2:- Episode: 25000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+30000
+For Process 1:- Episode: 30000 Reward: -39570 Number of tiles broken: 7 Game Over: True
+30000
+For Process 2:- Episode: 30000 Reward: -11030 Number of tiles broken: 2 Game Over: True
+35000
+For Process 1:- Episode: 35000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+35000
+For Process 2:- Episode: 35000 Reward: -17950 Number of tiles broken: 5 Game Over: True
+40000
+For Process 1:- Episode: 40000 Reward: -11030 Number of tiles broken: 2 Game Over: True
+40000
+For Process 2:- Episode: 40000 Reward: -13860 Number of tiles broken: 2 Game Over: True
+45000
+For Process 1:- Episode: 45000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+45000
+For Process 2:- Episode: 45000 Reward: -18050 Number of tiles broken: 5 Game Over: True
+1 (59, -221780)
+2 (56, -123380)
+Process 1 broke more tiles than Process 2
+Process 1 broke 59 and Process 2 broke 56
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+0
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+0
+For Process 1:- Episode: 0 Reward: -11060 Number of tiles broken: 2 Game Over: True
+For Process 2:- Episode: 0 Reward: -6100 Number of tiles broken: 1 Game Over: True
+5000
+For Process 2:- Episode: 5000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+5000
+For Process 1:- Episode: 5000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+For Process 2 at 8161: Game Complete
+Number of tiles broken:  60
+10000
+For Process 2:- Episode: 10000 Reward: -11630 Number of tiles broken: 2 Game Over: True
+10000
+For Process 1:- Episode: 10000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+15000
+For Process 2:- Episode: 15000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+15000
+For Process 1:- Episode: 15000 Reward: -42860 Number of tiles broken: 7 Game Over: True
+20000
+For Process 2:- Episode: 20000 Reward: -45440 Number of tiles broken: 11 Game Over: True
+20000
+For Process 1:- Episode: 20000 Reward: -8930 Number of tiles broken: 1 Game Over: True
+25000
+For Process 2:- Episode: 25000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+25000
+For Process 1:- Episode: 25000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+30000
+For Process 2:- Episode: 30000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+30000
+For Process 1:- Episode: 30000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+For Process 2 at 32180: Game Complete
+Number of tiles broken:  60
+35000
+For Process 2:- Episode: 35000 Reward: -16760 Number of tiles broken: 5 Game Over: True
+35000
+For Process 1:- Episode: 35000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+40000
+For Process 2:- Episode: 40000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+40000
+For Process 1:- Episode: 40000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+45000
+For Process 2:- Episode: 45000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+45000
+For Process 1:- Episode: 45000 Reward: -14490 Number of tiles broken: 4 Game Over: True
+2 (60, -150060)
+1 (58, -178620)
+Process 2 broke more tiles than Process 1
+Process 1 broke 58 and Process 2 broke 60
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+0
+0
+For Process 1:- Episode: 0 Reward: -4000 Number of tiles broken: 0 Game Over: True
+For Process 2:- Episode: 0 Reward: -14740 Number of tiles broken: 2 Game Over: True
+5000
+For Process 2:- Episode: 5000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+5000
+For Process 1:- Episode: 5000 Reward: -11090 Number of tiles broken: 2 Game Over: True
+10000
+For Process 2:- Episode: 10000 Reward: -11030 Number of tiles broken: 2 Game Over: True
+10000
+For Process 1:- Episode: 10000 Reward: -22880 Number of tiles broken: 4 Game Over: True
+15000
+For Process 2:- Episode: 15000 Reward: -11630 Number of tiles broken: 2 Game Over: True
+15000
+For Process 1:- Episode: 15000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+20000
+For Process 2:- Episode: 20000 Reward: -21490 Number of tiles broken: 4 Game Over: True
+20000
+For Process 1:- Episode: 20000 Reward: -21490 Number of tiles broken: 4 Game Over: True
+25000
+For Process 2:- Episode: 25000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+25000
+For Process 1:- Episode: 25000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+30000
+For Process 2:- Episode: 30000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+30000
+For Process 1:- Episode: 30000 Reward: -8930 Number of tiles broken: 1 Game Over: True
+35000
+For Process 2:- Episode: 35000 Reward: -11660 Number of tiles broken: 2 Game Over: True
+35000
+For Process 1:- Episode: 35000 Reward: -16590 Number of tiles broken: 3 Game Over: True
+40000
+For Process 2:- Episode: 40000 Reward: -8930 Number of tiles broken: 1 Game Over: True
+40000
+For Process 1:- Episode: 40000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+45000
+For Process 2:- Episode: 45000 Reward: -11030 Number of tiles broken: 2 Game Over: True
+45000
+For Process 1:- Episode: 45000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+2 (58, -221270)
+1 (57, -142670)
+Process 2 broke more tiles than Process 1
+Process 1 broke 57 and Process 2 broke 58
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+0
+0
+For Process 1:- Episode: 0 Reward: -6100 Number of tiles broken: 1 Game Over: True
+For Process 2:- Episode: 0 Reward: -6100 Number of tiles broken: 1 Game Over: True
+5000
+For Process 1:- Episode: 5000 Reward: -8930 Number of tiles broken: 1 Game Over: True
+5000
+For Process 2:- Episode: 5000 Reward: -8930 Number of tiles broken: 1 Game Over: True
+10000
+For Process 2:- Episode: 10000 Reward: -11630 Number of tiles broken: 2 Game Over: True
+10000
+For Process 1:- Episode: 10000 Reward: -11030 Number of tiles broken: 2 Game Over: True
+15000
+For Process 1:- Episode: 15000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+15000
+For Process 2:- Episode: 15000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+20000
+For Process 1:- Episode: 20000 Reward: -8960 Number of tiles broken: 1 Game Over: True
+20000
+For Process 2:- Episode: 20000 Reward: -13860 Number of tiles broken: 2 Game Over: True
+25000
+For Process 1:- Episode: 25000 Reward: -13860 Number of tiles broken: 2 Game Over: True
+25000
+For Process 2:- Episode: 25000 Reward: -16620 Number of tiles broken: 3 Game Over: True
+30000
+For Process 1:- Episode: 30000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+30000
+For Process 2:- Episode: 30000 Reward: -26560 Number of tiles broken: 4 Game Over: True
+35000
+For Process 1:- Episode: 35000 Reward: -8930 Number of tiles broken: 1 Game Over: True
+35000
+For Process 2:- Episode: 35000 Reward: -23540 Number of tiles broken: 4 Game Over: True
+40000
+For Process 1:- Episode: 40000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+40000
+For Process 2:- Episode: 40000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+45000
+For Process 1:- Episode: 45000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+45000
+For Process 2:- Episode: 45000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+2 (55, -109080)
+1 (57, -107990)
+Process 1 broke more tiles than Process 2
+Process 1 broke 57 and Process 2 broke 55
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Hello from the pygame community. https://www.pygame.org/contribute.html
+0
+0
+For Process 1:- Episode: 0 Reward: -4000 Number of tiles broken: 0 Game Over: True
+For Process 2:- Episode: 0 Reward: -11090 Number of tiles broken: 2 Game Over: True
+Over the limit for process 1 on episode 1028
+5000
+For Process 1:- Episode: 5000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+5000
+For Process 2:- Episode: 5000 Reward: -11030 Number of tiles broken: 2 Game Over: True
+10000
+For Process 1:- Episode: 10000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+10000
+For Process 2:- Episode: 10000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+15000
+For Process 1:- Episode: 15000 Reward: -31770 Number of tiles broken: 6 Game Over: True
+15000
+For Process 2:- Episode: 15000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+20000
+For Process 1:- Episode: 20000 Reward: -24910 Number of tiles broken: 4 Game Over: True
+20000
+For Process 2:- Episode: 20000 Reward: -13860 Number of tiles broken: 2 Game Over: True
+25000
+For Process 1:- Episode: 25000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+25000
+For Process 2:- Episode: 25000 Reward: -11720 Number of tiles broken: 2 Game Over: True
+30000
+For Process 2:- Episode: 30000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+30000
+For Process 1:- Episode: 30000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+35000
+For Process 2:- Episode: 35000 Reward: -35540 Number of tiles broken: 5 Game Over: True
+35000
+For Process 1:- Episode: 35000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+40000
+For Process 2:- Episode: 40000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+40000
+For Process 1:- Episode: 40000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+45000
+For Process 2:- Episode: 45000 Reward: -4000 Number of tiles broken: 0 Game Over: True
+45000
+For Process 1:- Episode: 45000 Reward: -6100 Number of tiles broken: 1 Game Over: True
+2 (58, -196350)
+1 (55, -216600)
+Process 2 broke more tiles than Process 1
+Process 1 broke 55 and Process 2 broke 58
