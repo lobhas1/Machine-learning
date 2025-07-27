@@ -1,7 +1,0 @@
-# Project File Z:\home\basti\sciebo\SkyMseh_sDBD\4SetUpPlasimo\sdbd.prj - Saved on 05-May-23 at 12:20:20.
-GEOMETRY     sdbd.geo
-REFINEMENTS  sdbd.ref
-DENSITY      sdbd.den
-MESH         sdbd.fem
-GRID         sdbd.grd
-BCMAT        sdbd.bc
